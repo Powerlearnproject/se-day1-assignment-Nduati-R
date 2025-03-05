@@ -25,6 +25,8 @@ Deployment – Releasing the product.
 Maintenance – Updates & fixes.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall methodology is a linear, sequential process where each phase must be completed before the next. It's ideal for clearly defined requirements e.g infrastructure systems where details are important.
+Agile methodology however is iterative, incremental process that delivers work in short cycles thus alloeing regular feedbacks throughout the project.It's works best in dynamic projects e.g developing a mobile app.
 
 Waterfall: Sequential, structured, good for projects with fixed requirements (e.g., government contracts).
 Agile: Iterative, flexible, ideal for evolving needs (e.g., startups).
@@ -41,6 +43,7 @@ DEs (e.g., VS Code, IntelliJ) streamline coding with features like debugging and
 VCS (e.g., Git, GitHub) track changes, prevent code conflicts, and enable collaboration.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Software engineers often encounter challenges such as evolving requirements, technical debt, tight deadlines, complex codebases, and communication gaps. To overcome these, strategies include adopting Agile methodologies for flexibility, scheduling regular refactoring sessions, using effective estimation and sprint planning, implementing modular architectures, and leveraging collaboration tools and code reviews for improved teamwork.
 
 Scope Creep – Define clear project goals from the start.
 Buggy Code – Use automated testing & code reviews.
